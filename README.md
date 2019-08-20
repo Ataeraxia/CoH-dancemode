@@ -1,9 +1,10 @@
 # CoH-dancemode
 A challenging ruleset for getting exercise while playing Cadence Of Hyrule.
 
-*A Note On Rigidity*
-
-This isn't meant to be a formal exercise, so when I say to do a 'squat,' I don't mean execute it perfectly; it's only meant to describe the basic shape of the movement. Similarly, this ruleset is really new, so there will be flaws I haven't thought of.
+*Worthwhile Things To Note*
+- This isn't meant to be a formal exercise, so when I say to do a 'squat,' I don't mean execute it perfectly; it's only meant to describe the basic shape of the movement. 
+- This ruleset is really new, so there will be flaws I haven't thought of.
+- I haven't figured out how this could be played in handheld mode. I would suggest using the Joy-Cons in docked mode.
 
 ## Basic Rules
 *When enemies are on screen (not fixed-beat mode)*
